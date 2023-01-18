@@ -101,8 +101,6 @@ psutil==5.9.2
 psycopg2-binary==2.9.4
 pure-eval==0.2.2
 pycparser==2.21
-pycryptodome==3.16.0
-pycryptodomex==3.16.0
 pydantic==1.10.4
 Pygments==2.13.0
 pymssql==2.2.5
